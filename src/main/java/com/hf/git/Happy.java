@@ -3,5 +3,6 @@ package com.hf.git;
 public class Happy {
 	public static void main(String[] args) {
 		System.out.print("Left...");
+		System.out.println(1);
 	}
 }
