@@ -4,6 +4,6 @@ public class Happy {
 	public static void main(String[] args) {
 		System.out.print("Left...");
 		System.out.print("right..");
-		System.out.println(1);
-	}
-}
+
+		System.out.println("hot fix..");
+}}
